@@ -16,3 +16,7 @@ AIGC创作、内容生成、AIGC检测、AIGC查重、降AIGC率、AI检测
 ![1752713392583.png](img/1752713392583.png)
 
 ![aigc二维码.png](img/aigc%E4%BA%8C%E7%BB%B4%E7%A0%81.png)
+
+
+### 毕业论文、答辩PPT、查重、任务书、开题报告等
+### AI查重、降AIGC率、早查重
